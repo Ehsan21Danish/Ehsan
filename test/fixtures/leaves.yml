@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  manager_id: MyString
+  team_lead_id: MyString
+  application_id: MyString
+  status: 1
+  reason: MyText
+  from_date: 2023-10-13
+  to_date: 2023-10-13
+  leave_type: 1
+
+two:
+  manager_id: MyString
+  team_lead_id: MyString
+  application_id: MyString
+  status: 1
+  reason: MyText
+  from_date: 2023-10-13
+  to_date: 2023-10-13
+  leave_type: 1

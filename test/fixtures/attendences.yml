@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  User: one
+  date: 2023-10-13
+  is_holidy: false
+  day_present: false
+
+two:
+  User: two
+  date: 2023-10-13
+  is_holidy: false
+  day_present: false
